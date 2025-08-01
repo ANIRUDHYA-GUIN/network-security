@@ -1,8 +1,7 @@
-### Network Security Projects For Phising Data
 
 from pymongo.mongo_client import MongoClient
 
-uri = "mongodb+srv://anirudhyaguin2004:<db_password>@cluster0.ca88xc4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+uri = "mongodb+srv://anirudhyaguin2004:Guin123@cluster0.ca88xc4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # Create a new client and connect to the server
 client = MongoClient(uri)
